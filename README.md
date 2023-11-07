@@ -1,6 +1,6 @@
 # COVID-19's Impact on Well-being
 
-## A Data-Driven Examination of the Correlation Between COVID-19 and Happiness Countrywise
+# A Data-Driven Examination of the Correlation Between COVID-19 and Happiness Countrywise
 
 ### Countrywise Covid-19 infection data of 4 months
 
