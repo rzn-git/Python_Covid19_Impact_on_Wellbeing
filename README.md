@@ -14,12 +14,11 @@
 
 ![8](https://github.com/rzn-git/Python_Covid19_Impact_on_Wellbeing/assets/64501583/c894332d-c91f-4d0e-837d-37947ee17f15)
 
-## we need to find a good measure reperestend as a number, describing the spread of the virus in a country.
-
-### finding maximum infection rate for all of the countries 
-
+## Finding a good measure reperestend as a number, describing the spread of the virus in a country
+ 
 ![1](https://github.com/rzn-git/COVID-19-s-Impact-on-Well-being/assets/64501583/30ef6804-64ac-49d4-a574-ab4b2fadaa1a)
 
+### finding maximum infection rate for all of the countries
 
 ![2](https://github.com/rzn-git/COVID-19-s-Impact-on-Well-being/assets/64501583/63cb99ee-e585-468f-a43f-ec27e1958842)
 
