@@ -18,7 +18,7 @@
  
 ![1](https://github.com/rzn-git/COVID-19-s-Impact-on-Well-being/assets/64501583/30ef6804-64ac-49d4-a574-ab4b2fadaa1a)
 
-### finding maximum infection rate for all of the countries
+### Finding maximum infection rate for all of the countries
 
 ![2](https://github.com/rzn-git/COVID-19-s-Impact-on-Well-being/assets/64501583/63cb99ee-e585-468f-a43f-ec27e1958842)
 
